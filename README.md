@@ -22,7 +22,7 @@ As a computer engineering student, I am deeply immersed in the study and applica
 - *Programming Languages:* Python, JavaScript
 - *Tools:* Git, GitHub
 
-  ## Educational Background
+## Educational Background
 *Calvary Christian Academy*
 - 2011 to 2013
 - With High Honors
