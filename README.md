@@ -38,11 +38,11 @@ As a computer engineering student, I am deeply immersed in the study and applica
 - Scripture Memorization Completer (Memorize 90+ Bible Verses)
 
 *STI College of San Jose del Monte*
-*Senior High School*
+- *Senior High School*
 - 2020 to 2022
 - Strand: ICT - Digital Arts
 - With Honors
-*Tertiary*
+- *Tertiary*
 - 2022 to Present (2024)
 - Course: Bachelor of Science in Computer Engineering
 
