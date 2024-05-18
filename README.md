@@ -7,9 +7,9 @@ My 1st repository
 
 ### *Biography*
 
-*Birthday: February 25, 2004*
-*Place of Birth: Tondo, Manila, Philippines*
-*Course: Bachelor of Science in Computer Engineering*
+- *Birthday: February 25, 2004*
+- *Place of Birth: Tondo, Manila, Philippines*
+- *Course: Bachelor of Science in Computer Engineering*
 
 ## Contact Information
 - *Email:* ricaplaza.229342@sjdelmonte.sti.edu.ph
